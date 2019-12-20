@@ -29,9 +29,9 @@ $ node socket
 ## Screenshots
 
 ##### Login
-![Login Form](screenshots/chat1.jpg "Login Form")
+![Login Form](./screenshots/chat1.jpg "Login Form")
 
 ##### Chat
-![Chat App](screenshots/chat2.jpg "Chat App")
-![Chat App](screenshots/chat3.jpg )
-![Chat App](screenshots/chat4.jpg )
+![Chat App](./screenshots/chat2.jpg "Chat App")
+![Chat App](./screenshots/chat3.jpg )
+![Chat App](./screenshots/chat4.jpg )
